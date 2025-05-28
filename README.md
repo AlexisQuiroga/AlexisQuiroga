@@ -20,7 +20,7 @@ Me destaco por mi creatividad, mi capacidad para resolver problemas con pocos re
 - [🧮 App de Conteo de Stock](https://github.com/AlexisQuiroga/Control_de_Stock)  
   Aplicación Java pura, backend y frontend, ideal para gestión de stock.
 
-- [🤖 Proyecto final Escuela de IA]([https://github.com/AlexisQuiroga/EcoSmart-Advisor])  
+- [🤖 Proyecto final Escuela de IA](https://github.com/AlexisQuiroga/EcoSmart-Advisor)  
   Aplicación basada en IA con ingeniería de prompts y automatización.
 
 ## 📫 Contacto
